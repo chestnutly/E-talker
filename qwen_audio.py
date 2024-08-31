@@ -1,6 +1,5 @@
 import dashscope
-#export DASHSCOPE_API_KEY="sk-4f2065538c624436b571156515d816e4"
-dashscope.api_key="sk-4f2065538c624436b571156515d816e4"
+dashscope.api_key="sk-4f20**********************"
 
 from http import HTTPStatus
 
