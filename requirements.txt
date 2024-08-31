@@ -1,0 +1,13 @@
+streamlit
+asyncio
+edge_tts
+dashscope
+http
+fastasr
+math
+numpy
+soundfile
+pypinyin
+Levenshtein
+pyaudio
+wave 
